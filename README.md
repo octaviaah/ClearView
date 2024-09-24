@@ -19,7 +19,8 @@ This repository presents an architectural proposal done by the Dreamers League t
 
 ## Contributors
 For this project, an aspiring team of architects has been organized, using this opportunity to forecast our skills into new and innovative solutions that focus on transparency, user experience, functionality, while also emphasizing performance.
-*Team members*:
+
+**Team members**:
 * Lucian Braescu
 * Miruna Urcan
 * Octavia Hriscu
