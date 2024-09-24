@@ -6,12 +6,16 @@ This repository presents an architectural proposal done by the Dreamers League t
 ## Table of contents
 1. ClearView story
 2. Overview of the system
-   2.1. Client initial requirements
-   2.2 Requirement analysis
-   2.3. Cross-functional requirements
-   2.4. Capabilies
-3. Architecture design
-4. ADRs
+   
+      2.1. Client initial requirements
+   
+      2.2 Requirement analysis
+   
+      2.3. Cross-functional requirements
+   
+      2.4. Capabilies
+4. Architecture design
+5. ADRs
 
 ## Contributors
 For this project, an aspiring team of architects has been organized, using this opportunity to forecast our skills into new and innovative solutions that focus on transparency, user experience, functionality, while also emphasizing performance.
