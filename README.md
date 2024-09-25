@@ -7,13 +7,21 @@ This repository presents an architectural proposal done by the Dreamers League t
 1. [ClearView story](https://github.com/octaviaah/ClearView/blob/main/1.%20Requirements/ClearView%20Story.md)
 2. Overview of the system
    
-      2.1. [Client initial requirements](https://github.com/octaviaah/ClearView/blob/main/1.%20Requirements/CoreRequirements.md)
+      2.1. [Client initial requirements](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/ClientInitialRequirements.md)
+
+      2.2. [Core requirements](https://github.com/octaviaah/ClearView/blob/main/1.%20Requirements/CoreRequirements.md)
    
       2.2. Requirement analysis
+
+         2.2.1. [User journey - Employer](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/UserJourneys/Employer.md)
+
+         2.2.2. [User journey - Job Candidate](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/UserJourneys/JobCandidate.md)
+
+         2.2.3. [User journey - Administrator](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/UserJourneys/Admin.md)
    
       2.3. Cross-functional requirements
    
-      2.4. Capabilies
+      2.4. [Capabilies](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Capabilities.md)
 4. Architecture design
 5. ADRs
 
