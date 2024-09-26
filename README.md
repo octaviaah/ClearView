@@ -22,7 +22,7 @@ This repository presents an architectural proposal done by the Dreamers League t
 
    1.4. [Cross-functional requirements](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Cross%20functional%20requirements.md)
   
-   1.5. [Capabilies](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Capabilities.md)
+   2.5. [Capabilities](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Capabilities.md)
 
 2. ### Architecture design
 3. ### ADRs
