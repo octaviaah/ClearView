@@ -1,4 +1,4 @@
-# Integrating a Message Broker to connect the AI tool with functions for multiple functionalities
+# Integrating a Message Broker to connect the AI tool with functions for multiple features
 
 ## Context
 As the system grows in complexity and scale due to the multiple integrations with HR systems, the functions inside the ClearView system increasingly require asynchronous communication to manage the high volume of traffic and events. A possible synchronous point-to-point communication model creates bottlenecks, increasing latency and making the system fragile to failures in dependent services.
