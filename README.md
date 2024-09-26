@@ -29,6 +29,8 @@ This repository presents an architectural proposal done by the Dreamers League t
 
    3.1. [Integrating a Message Broker](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR001-IntegratingAMessageBroker.md)
 
+   3.2. [Handling Blob Storage](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR002-HandlingBlobStorage.md)
+
 ## Contributors
 For this project, an aspiring team of architects has been organized, using this opportunity to forecast our skills into new and innovative solutions that focus on transparency, user experience, functionality, while also emphasizing performance.
 
