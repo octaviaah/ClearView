@@ -20,7 +20,7 @@ This repository presents an architectural proposal done by the Dreamers League t
 
      3. [User journey - Administrator](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/UserJourneys/Admin.md)
 
-   2.4. Cross-functional requirements
+   2.4. [Cross-functional requirements](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Cross%20functional%20requirements.md)
   
    2.5. [Capabilies](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/Capabilities.md)
 
