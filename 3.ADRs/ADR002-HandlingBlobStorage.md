@@ -27,6 +27,7 @@ Modern HR systems are in cloud and since we are already proposing a cloud-based 
   * Performance: AWS S3 ensures fast read and write operations for large amounts of data.
   * Integration complexity: AWS S3 uses REST APIs to integrate with other systems.
   * Disaster Recovery: AWS S3 provides high durability and redundancy.
+  * Data integrity/consistency: AWS S3 provides high durability for the stored resumes, ensuring that they are securely stored and accessible when needed. In order to protect against data loss, data is replicated across multiple locations.
    
 
 ## Useful links
