@@ -117,8 +117,8 @@ The [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.Architecture
 ![ArchitectureStyle](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/ArchitectureStylesWorksheet.png)
 
 ## Relevant Architecture Decision Records
-[ADR002-EventDrivenArchitecture](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR002-EventDrivenArchitecture.md)
+[ADR003-EventDrivenArchitecture](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR003-EventDrivenArchitecture.md)
 
-[ADR003-FunctionsAcrossDomainBoundaries](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR003-FunctionsAcrossDomainBoundaries.md)
+[ADR004-FunctionsAcrossDomainBoundaries](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR004-FunctionsAcrossDomainBoundaries.md)
 
-[ADR004-QuarantinedLLM](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR004-QuarantinedLLM.md)
+[ADR006-QuarantinedLLM](https://github.com/octaviaah/ClearView/blob/main/3.ADR/ADR006-QuarantinedLLM.md)
