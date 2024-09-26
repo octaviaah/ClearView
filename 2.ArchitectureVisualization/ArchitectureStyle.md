@@ -4,7 +4,7 @@
 
 ## Project scope
 
-ClearView project aims to revolutionize the hiring process by promoting diversity and reducing bias through AI-powered candidate evaluation and anonymization. The system's [core](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/CoreRequirements.md) functionality revolves around enhancing existing recruitment processes and empowering decision makers with additional data points to make more informed, inclusive decisions.
+ClearView aims to revolutionize the hiring process by promoting diversity and reducing bias through AI-powered candidate evaluation and anonymization. The system's [core](https://github.com/octaviaah/ClearView/blob/main/1.Requirements/CoreRequirements.md) functionality revolves around enhancing existing recruitment processes and empowering decision makers with additional data points to make more informed, inclusive decisions.
 
 Choosing an appropriate architectural style is essential for ensuring that the system's structure aligns with the business specific needs.
 
