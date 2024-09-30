@@ -23,7 +23,7 @@ This repository presents an architectural proposal done by the Dreamers League t
 
    1.4. [Cross-functional Requirements](./1.Requirements/CrossFunctionalRequirements.md)
 
-   2.5. [Capabilities](./1.Requirements/Capabilities.md)
+   1.5. [Capabilities](./1.Requirements/Capabilities.md)
 
 2. ### Architecture design
 
