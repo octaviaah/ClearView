@@ -132,11 +132,11 @@ Mitigation: Invest in comprehensive monitoring tools and practices. Implement ce
 
 ## Architecture visualization
 
-The [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md) visually illustrates a high level overview of the system and the infrastructure is high-lighted
+The [C4 diagram](../2.ArchitectureVisualization/C4Diagram.md) visually illustrates a high level overview of the system and the infrastructure is high-lighted
 
 ## Architecture style worksheet:
 
-![ArchitectureStyle](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/ArchitectureStylesWorksheet.png)
+![ArchitectureStyle](../2.ArchitectureVisualization/ArchitectureStylesWorksheet.png)
 
 ## Relevant Architecture Decision Records
 

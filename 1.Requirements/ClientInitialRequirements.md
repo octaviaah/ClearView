@@ -25,16 +25,18 @@ Candidates can be marked as Hired or Passed (not hired) by employers.
 
 Candidates are able to view their matches and who unlocked their resume. They are also able to view the employer information and remove their resume if they choose to.
 
-Both Candidates and Employers are able to respond to a survey at the end of the hiring process.
+Both Candidates and Employers are able to fill in a survey at the end of the hiring process.
 
-**ClearView** should be integrated with existing HR systems. 
+**ClearView** should be integrated with several existing HR systems.
+
 ## Main flow for success criteria
+
 ![Workflow diagram](../resources/workflow.png)
 
-The success criteria workflow for ClearView involves anonymizing candidate resumes to eliminate bias, using AI to create S.M.A.R.T. based candidate profiles, and matching these profiles to open job roles with a high similarity score. 
+The success criteria workflow for ClearView involves anonymizing candidate resumes to eliminate bias, using AI to create S.M.A.R.T. based candidate profiles, and matching these profiles to open job roles with a high similarity score.
 Employers then review generated stories and unlock them after making an objective decision. The system provides metrics about current progress and integrates with HR platforms, improving current processes. In the end, success is measured by improved hiring outcomes, reduced bias and a fair, objective hiring process.
 
 ## Other considerations
 
-* A trained LLM is already provided for this solution.
-* The solution needs to respect AI responsibility principles (**transparency**, **fairness**, **inclusiveness**, privacy and security)
+- A trained LLM is already provided for this solution.
+- The solution needs to respect AI responsibility principles (**transparency**, **fairness**, **inclusiveness**, privacy and security)
