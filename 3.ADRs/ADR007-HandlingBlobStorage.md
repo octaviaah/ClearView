@@ -31,4 +31,4 @@ Modern HR systems are in cloud and since we are already proposing a cloud-based 
    
 
 ## Useful links
-- here will come the C4 diagram
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
