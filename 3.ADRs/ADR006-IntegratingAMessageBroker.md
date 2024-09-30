@@ -28,3 +28,4 @@ As was mentioned in the Context, we consider an open-source message broker such 
 
 ## Useful links
 - [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
+- [Architectural Decision Record 1 - Choose an architectural style](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR001-EventDrivenArchitecture.md)
