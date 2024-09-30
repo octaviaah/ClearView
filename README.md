@@ -30,8 +30,9 @@ This repository presents an architectural proposal done by the Dreamers League t
    2.1. [Architecture Style](./2.ArchitectureVisualization/ArchitectureStyle.md)
 
    2.2. [C4 Diagram](./2.ArchitectureVisualization/C4Diagram.md)
+   2.3. [Deployment](./2.ArchitectureVisualization/Deployment.md)
 
-3. ### ADRs
+4. ### ADRs
 
    3.1. [Event Driven Architecture](./3.ADRs/ADR001-EventDrivenArchitecture.md)
 
