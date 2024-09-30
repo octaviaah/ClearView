@@ -25,7 +25,7 @@ This repository presents an architectural proposal done by the Dreamers League t
 
    1.5. [Capabilities](./1.Requirements/Capabilities.md)
 
-2. ### Architecture design
+2. ### Architectural Visualization
 
    2.1. [Architecture Style](./2.ArchitectureVisualization/ArchitectureStyle.md)
 
