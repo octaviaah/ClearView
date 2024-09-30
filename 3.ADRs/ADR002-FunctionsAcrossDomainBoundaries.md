@@ -31,3 +31,4 @@ It promotes loose coupling between domains, reducing the risk of unintended side
    
 
 ## Useful links
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
