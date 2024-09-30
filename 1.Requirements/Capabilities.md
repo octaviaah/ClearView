@@ -16,5 +16,4 @@ Get to know how each role will interact with **ClearView** and define User Journ
 
 ## Requirement analysis conclusion
 
-//TODO
-?? We conclude the requirements analysis with a summary of the Core Requirements, Project Constraints that we identified and based on these we extract the Architectural characteristics that will drive the design of **ClearView** (both the infrastructure and the software architecture).
+To conclude our requirement analysis, we identified ClearView's [Core Requirements](./CoreRequirements.md#core-requirements) and [Project Constraints](./CoreRequirements.md#project-constraints). Based on these we extract the [Architectural Style](../2.ArchitectureVisualization/ArchitectureStyle.md) and characteristics that are presented in the [C4 Diagram](../2.ArchitectureVisualization/C4Diagram.md).

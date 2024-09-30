@@ -47,6 +47,8 @@ This repository presents an architectural proposal done by the Dreamers League t
 
    3.7. [Handling Blob Storage](/3.ADRs/ADR007-HandlingBlobStorage.md)
 
+   3.8. [Integration with Other HR Systems](/3.ADRs/ADR008-IntegrationWithOtherHrSystems.md)
+
 ## Contributors
 
 For this project, an aspiring team of architects has been organized, using this opportunity to forecast our skills into new and innovative solutions that focus on transparency, user experience, functionality, while also emphasizing performance.
