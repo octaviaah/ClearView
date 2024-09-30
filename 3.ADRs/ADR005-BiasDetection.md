@@ -20,3 +20,4 @@ Debiasing Techniques: Reduces bias within the AI model but may not eliminate it 
 Human-in-the-Loop Review: Increases accuracy and reduces bias but introduces additional cost.
 
 ## Useful links
+- [Architectural Decision Record 3 - AI Model Selection and Training](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR003-AIModelSelection.md)
