@@ -23,4 +23,5 @@ Proposed
 
 ## Useful links 
 - [Architecture Style](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/ArchitectureStyle.md)
+- [Archutecture Characteristics Worksheet](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/ArchitectureCharacteristicsWorksheet.png)
 - [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
