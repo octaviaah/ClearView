@@ -27,4 +27,4 @@ As was mentioned in the Context, we consider an open-source message broker such 
    
 
 ## Useful links
-- here will come the C4 diagram
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
