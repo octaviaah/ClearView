@@ -27,4 +27,4 @@ Disadvantages:
 
 ## Useful links
 - [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
-- [ADR003 - AI Model Selection and Training](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR003-AIModelSelection.md)
+- [Architectural Decision Record 3 - AI Model Selection and Training](https://github.com/octaviaah/ClearView/blob/main/3.ADRs/ADR003-AIModelSelection.md)
