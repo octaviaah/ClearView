@@ -26,3 +26,4 @@ Disadvantages:
 * Potential performance overhead: Depending on the workload and resource allocation, a dedicated LLM instance may introduce additional latency.
 
 ## Useful links
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
