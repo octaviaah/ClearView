@@ -1,5 +1,5 @@
 ## Core requirements
-After analyzing the client's requirements, we discovered the following features of the system:
+After analyzing the client's requirements, we identified the following features of the system:
 * ClearView must leverage AI to re-construct job seeker resumes into a S.M.A.R.T. goal format and quantifiable align their experience to open roles posted by the hiring manager
 * The AI tool is proving resume tips and eliminating any racial, lifestyle, cultural indicators
 * ClearView should provide a similarity Score/Match on job descriptions
