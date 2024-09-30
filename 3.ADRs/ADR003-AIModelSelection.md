@@ -17,3 +17,4 @@ Proposed
 Pre-trained NLP Model: Faster development, potentially lower cost, but might require significant fine-tuning for optimal performance.
 
 ## Useful links
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
