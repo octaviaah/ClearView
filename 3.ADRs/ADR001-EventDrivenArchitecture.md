@@ -22,3 +22,4 @@ Proposed
 * Improved scalability and flexibility: The event-driven approach can lead to more scalable and adaptable systems.
 
 ## Useful links 
+- [C4 diagram](https://github.com/octaviaah/ClearView/blob/main/2.ArchitectureVisualization/C4Diagram.md)
