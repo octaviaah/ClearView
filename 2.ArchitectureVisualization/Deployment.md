@@ -1,0 +1,3 @@
+In terms of deploying the system, we took into consideration the need of change and adapt based on the requirements of the companies. In order to be able to respond to these requirements, the decision was to use CI/CD pipelines, and release improvements in small, regular updates. The users should receive the updates automatically, without the need of human intervention from companies' side.
+
+Additionally, we want to ensure an optimal user experience during deployments with no downtime, by using Blue/Green deployment process. This will provide an easy rollback in case any issues are reported with the new update, without impacting the user experience.
